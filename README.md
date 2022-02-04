@@ -2895,7 +2895,7 @@ const gd10Coords = [
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIX3M_RP5078ZlKfkc3HTHZ10vsM6IdKg&callback=initMap"
+      src="https://maps.googleapis.com/maps/api/"
       async
     ></script>
   </body>
